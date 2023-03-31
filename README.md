@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kazeem! <br\>
+<h1>Hi, I'm Kazeem! <br/>
 <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional, Software Enginner</a>
 
 <h2>🔖 Training & certifications</h2>
