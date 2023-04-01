@@ -1,19 +1,20 @@
 <h1>Hi, I'm Kazeem! <br/>
 <a href="https://www.linkedin.com/in/muyideen-kazeem-93060874/">Cybersecurity Professional, Software Enginner</a>
 
-<h2>🔖 Training & certifications</h2>
+<h2>🔖 certifications:</h2>
 
-<h2>🌏 Cybersecurity Projects</h2>
+<h2>📚 Trainings:</h2>
+
+<h2>🌏 Cybersecurity Projects:</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📺 YouTube Videos:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
