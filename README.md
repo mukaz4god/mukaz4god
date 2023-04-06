@@ -3,9 +3,22 @@
 
 <h2>🔖 certifications:</h2>
 
-<h2>📚 Trainings:</h2>
+  <h2>📚 Trainings:</h2>
+  
+  - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR 
+  - Linux Essentials	
+  - Certified in Cybersecurity	
+  - Introduction to Ethical Hacking	
+  - Ethical Hacking from Scratch
+  - Microsoft Security Operations Analyst
+  - CompTIA Security+	
+  - Certified Server Administrator 2008	
+
+
 
 <h2>🌏 Cybersecurity Projects:</h2>
+
+  - [Coming Soon...](https://github.com/)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
