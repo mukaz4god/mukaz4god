@@ -10,7 +10,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Coming Soon...](https://github.com/)
+  - Signage Billing WinForm Project (https://github.com/mukaz4god/Bill_TestProject)<br/>
+- <b>C# (.NET API Applications)</b>
+  - Signage Billing  API Project (https://github.com/mukaz4god/ITC-OYSAABackEndApi)<br/>
+  - Identity Server 4 API Project (https://github.com/mukaz4god/IS4AuthServer)<br/>
+- <b>Angular (Client Side)</b>
+  - Signage Billing ClientSide Project (https://github.com/mukaz4god/ITC-OYSAA)<br/>
 - <b>Python</b>
   - [Coming Soon...](https://github.com/)
 
