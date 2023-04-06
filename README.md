@@ -18,7 +18,8 @@
 
 <h2>🌏 Cybersecurity Projects:</h2>
 
-  - [Coming Soon...](https://github.com/)
+  - Vulnerabiltity Scanning using OpenVAS (https://github.com/mukaz4god/Vulnerability-Scanning-Using-OpenVAS)
+  - [Under Construction More Project Coming Soon...]
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
