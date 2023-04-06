@@ -2,6 +2,10 @@
 <a href="https://www.linkedin.com/in/muyideen-kazeem-93060874/">Cybersecurity Professional, Software Engineer(Backend)</a>
 
 <h2>🔖 certifications:</h2>
+ 
+  - eJPT											(In Progress: Projected May 2023)
+  - Microsoft Security Operations Analyst 							(In Progress: Projected May 2023)
+  - CompTIA Security+ 
 
   <h2>📚 Trainings:</h2>
   
