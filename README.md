@@ -10,9 +10,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
+  - [Coming Soon...](https://github.com/)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Coming Soon...](https://github.com/)
 
 <h2>📺 YouTube Videos:</h2>
 
