@@ -21,9 +21,9 @@
 
 
 <h2>🌏 Cybersecurity Projects:</h2>
-  - Vulnerabiltity Scanning using Nessus (https://github.com/mukaz4god/Vulnerability-Scanning-with-Nessus)
+  - Vulnerabiltity Scanning using Nessus (https://github.com/mukaz4god/Vulnerability-Scanning-with-Nessus)</br>
   - Vulnerabiltity Scanning using OpenVAS (https://github.com/mukaz4god/Vulnerability-Scanning-Using-OpenVAS)<br/>
-  - Exploiting EternalBlue-MS17-010 (https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability)
+  - Exploiting EternalBlue-MS17-010 (https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability)<br/>
 
   - [Under Construction More Project Coming Soon...]
 
