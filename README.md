@@ -24,7 +24,7 @@
   - Vulnerabiltity Scanning using Nessus (https://github.com/mukaz4god/Vulnerability-Scanning-with-Nessus)</br>
   - Vulnerabiltity Scanning using OpenVAS (https://github.com/mukaz4god/Vulnerability-Scanning-Using-OpenVAS)<br/>
   - Exploiting EternalBlue-MS17-010 (https://github.com/mukaz4god/Exploiting-EternalBlue-MS17-010-Vulnerability)<br/>
-
+  - Exploiting Samba Smbd and Mod_ssl/2.8.4 Vulnerability (https://github.com/mukaz4god/Kioptrix-Box-Gain-Root-Access) <br/>
   - [Under Construction More Project Coming Soon...]
 
 <h2>👨‍💻 Software Development Projects:</h2>
