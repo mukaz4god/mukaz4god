@@ -5,7 +5,7 @@
  
   - eJPT											(In Progress: Projected May 2023)
   - Microsoft Security Operations Analyst 							(In Progress: Projected May 2023)
-  - CompTIA Security+ 
+  - CompTIA Security+ (In Progress: Projected June 2023)
 
   <h2>📚 Trainings:</h2>
   
