@@ -12,11 +12,11 @@
   - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR 
   - Linux Essentials	
   - Certified in Cybersecurity	
-  - Introduction to Ethical Hacking	
+  - Ethical Hacking	Masterclass
   - Ethical Hacking from Scratch
   - Microsoft Security Operations Analyst
   - CompTIA Security+	
-  - Certified Server Administrator 2008	
+  - Aptech Certified Server Administrator 2008	
 
 
 
