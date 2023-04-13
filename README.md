@@ -39,9 +39,9 @@
 - <b>Python</b>
   - [Coming Soon...](https://github.com/)
 
-<h2>👨‍💻 My Writeup/Research Work:</h2>
+<h2>👨‍💻 My Research Writeups:</h2>
 
-- <b></b>
+- <b>My Research Projects (https://github.com/mukaz4god/Research-Writeup)</b>
 
 <h2>📺 YouTube Videos:</h2>
 
