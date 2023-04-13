@@ -39,6 +39,10 @@
 - <b>Python</b>
   - [Coming Soon...](https://github.com/)
 
+<h2>👨‍💻 My Writeup/Research Work:</h2>
+
+- <b></b>
+
 <h2>📺 YouTube Videos:</h2>
 
 <h2> 🤳 Connect with me:</h2>
