@@ -9,7 +9,7 @@
 
   <h2>📚 Trainings:</h2>
   
-  - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR 
+  - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR  - TryHackMe
   - Linux Essentials	
   - Certified in Cybersecurity	
   - Ethical Hacking	Masterclass
