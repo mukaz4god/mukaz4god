@@ -9,14 +9,14 @@
 
   <h2>📚 Trainings:</h2>
   
-  - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR  - TryHackMe
-  - Linux Essentials	
-  - Certified in Cybersecurity	
-  - Ethical Hacking	Masterclass
-  - Ethical Hacking from Scratch
-  - Microsoft Security Operations Analyst
-  - CompTIA Security+	
-  - Aptech Certified Server Administrator 2008	
+  - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR  - TryHackMe 2023
+  - Linux Essentials	- NDG 2022
+  - Certified in Cybersecurity	- Udemy 2023
+  - Ethical Hacking	Masterclass - Staffordshire University (Staffordshire E-Skills & Entrepreneurship Gateway (SEGway)) 2022
+  - Ethical Hacking from Scratch - Udemy 2022
+  - Microsoft Security Operations Analyst - Udemy 2023
+  - CompTIA Security+	- Udemy 2023
+  - Aptech Certified Server Administrator 2008	- Aptech
 
 
 
