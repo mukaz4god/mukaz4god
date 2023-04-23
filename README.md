@@ -3,8 +3,8 @@
 
 <h2>🔖 certifications:</h2>
  
+  - Microsoft Certified: Security Operations Analyst Associate 						https://www.credly.com/badges/afae388a-1521-48c2-a4d1-ee53747be570/public_url
   - eJPT											(In Progress: Projected May 2023)
-  - Microsoft Security Operations Analyst 							(In Progress: Projected May 2023)
   - CompTIA Security+ (In Progress: Projected June 2023)
 
   <h2>📚 Trainings:</h2>
