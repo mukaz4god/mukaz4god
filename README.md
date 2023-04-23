@@ -11,7 +11,7 @@
   
   - Pre-Security | Intro. To Cybersecurity | Jr. Penetration Testing | SOC Analyst | DFIR  - TryHackMe 2023
   - Linux Essentials	- NDG 2022
-  - Certified in Cybersecurity	- Udemy 2023
+  - Certified in Cybersecurity	- (ISC)²
   - Ethical Hacking	Masterclass - Staffordshire University (Staffordshire E-Skills & Entrepreneurship Gateway (SEGway)) 2022
   - Ethical Hacking from Scratch - Udemy 2022
   - Microsoft Security Operations Analyst - Udemy 2023
