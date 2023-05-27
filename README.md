@@ -4,7 +4,7 @@
 <h2>🔖 certifications:</h2>
  
   - Microsoft Certified: Security Operations Analyst Associate 					
-  - eJPT											(In Progress: Projected May 2023)
+  - Introduction to Digital Transformation with Google Cloud	
   - CompTIA Security+ (In Progress: Projected June 2023)
 
   <h2>📚 Trainings:</h2>
