@@ -18,9 +18,9 @@
   - Ethical Hacking from Scratch - Udemy 2022
   - Microsoft Security Operations Analyst - Udemy 2023
   - CompTIA Security+	- Udemy 2023
-  - Microsoft Certified: Azure Administrator Associate - Udemy 2023
-  - Microsoft Certified: Cybersecurity Architect Expert- Udemy 2023
-  - Aptech Certified Server Administrator 2008	- Aptech
+  - Microsoft Azure Administrator Associate - Udemy 2023
+  - Microsoft Cybersecurity Architect Expert- Udemy 2023
+  - Microsoft Server Administrator 2008	- Aptech
 
 
 
