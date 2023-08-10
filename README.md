@@ -5,7 +5,9 @@
  
   - Microsoft Certified: Security Operations Analyst Associate 					
   - Introduction to Digital Transformation with Google Cloud	
-  - CompTIA Security+ (In Progress: Projected June 2023)
+  - CompTIA Security+ ce Certification
+  - Microsoft Certified: Azure Administrator Associate
+  - Microsoft Certified: Cybersecurity Architect Expert
 
   <h2>📚 Trainings:</h2>
   
